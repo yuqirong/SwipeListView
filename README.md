@@ -1,5 +1,7 @@
 # SwipeListView
 
+[![License](https://img.shields.io/badge/license-Apache%202-green.svg)](https://www.apache.org/licenses/LICENSE-2.0)
+
 ##介绍 Introduction##
 **SwipeListView** - 自定义Item的ViewGroup，实现在ListView中Item侧滑出菜单的效果。(Customize the ViewGroup that slideslip item to display sliding menu in listview.)
 
