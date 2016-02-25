@@ -98,7 +98,7 @@ PS：如果你的侧滑菜单中的View超过一个，则需要有ViewGroup包�
 
 电子邮箱 Email：<yqr271228943@gmail.com>
 
-If you have any questions or want to contact me,you can also leave a message in [Issues](https://github.com/yuqirong/DragGridView/issues).
+If you have any questions or want to contact me,you can also leave a message in [Issues](https://github.com/yuqirong/SwipeListView/issues).
 
 ##开源许可证 License##
 
