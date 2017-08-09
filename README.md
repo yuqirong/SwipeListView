@@ -1,5 +1,9 @@
 # SwipeListView
 
+# **Deprecated**
+
+该仓库已处于 Deprecated 状态，不会进行维护，强烈建议不要使用！！！
+
 [![License](https://img.shields.io/badge/license-Apache%202-green.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 
 ##介绍 Introduction##
